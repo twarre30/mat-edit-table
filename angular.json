@@ -135,5 +135,8 @@
       }
     }
   },
-  "defaultProject": "mat-edit-table"
+  "defaultProject": "mat-edit-table",
+  "cli": {
+    "analytics": false
+  }
 }
